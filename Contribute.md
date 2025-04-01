@@ -1,4 +1,4 @@
-##Manual Installation
+## Manual Installation
  - Install node js locally()
  - Clone the repo
  - Install dependencies (npm install)
@@ -12,10 +12,10 @@
  - npm run build
  - npm run start
 
-##Docker Installation
+## Docker Installation
 
 
-##Docker Compose Installation
+## Docker Compose Installation
 
 
 SSH - git@github.com:iamdev211/week-27-docker-compose.git
